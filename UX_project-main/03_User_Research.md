@@ -18,8 +18,11 @@ Poznanie sposobu organizowania codziennych zadań oraz najważniejszych potrzeb 
 4. Co powinno być widoczne od razu po uruchomieniu aplikacji?
 5. Jak oznaczasz zadanie jako wykonane?
 
-https://forms.gle/HwnVSBQwbv2jjcea8
-https://docs.google.com/spreadsheets/d/15Pc_FkLV625rccqPvXvv8LfUYmgylYBE84trJCq2Cms/edit?usp=sharing
+## Ankieta i wyniki
+
+- [Wypełnij anonimową ankietę TaskFlow](https://forms.gle/TWOJ_LINK)
+- [Otwórz arkusz odpowiedzi](https://docs.google.com/spreadsheets/d/TWOJ_LINK)
+
 
 ## Wnioski
 - Użytkownicy oczekują szybkiego dodawania zadań.
