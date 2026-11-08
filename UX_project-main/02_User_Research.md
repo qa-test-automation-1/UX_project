@@ -18,6 +18,8 @@ Poznanie sposobu organizowania codziennych zadań oraz najważniejszych potrzeb 
 4. Co powinno być widoczne od razu po uruchomieniu aplikacji?
 5. Jak oznaczasz zadanie jako wykonane?
 
+https://forms.gle/HwnVSBQwbv2jjcea8
+
 ## Wnioski
 - Użytkownicy oczekują szybkiego dodawania zadań.
 - Formularz powinien być możliwie prosty.
