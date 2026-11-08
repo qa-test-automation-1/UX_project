@@ -20,8 +20,8 @@ Poznanie sposobu organizowania codziennych zadań oraz najważniejszych potrzeb 
 
 ## Ankieta i wyniki
 
-- [Wypełnij anonimową ankietę TaskFlow](https://forms.gle/TWOJ_LINK)
-- [Otwórz arkusz odpowiedzi](https://docs.google.com/spreadsheets/d/TWOJ_LINK)
+- [Wypełnij anonimową ankietę TaskFlow](https://docs.google.com/forms/d/e/1FAIpQLSfRVz5wAcdJPXPwGaNZSCQhfZBJgTkX54LOutaYsSp0b8h1bg/viewform?usp=publish-editor)
+- [Otwórz arkusz odpowiedzi](https://docs.google.com/spreadsheets/d/15Pc_FkLV625rccqPvXvv8LfUYmgylYBE84trJCq2Cms/edit?resourcekey=&gid=1729728919#gid=1729728919)
 
 
 ## Wnioski
