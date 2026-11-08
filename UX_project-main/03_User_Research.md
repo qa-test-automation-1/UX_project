@@ -22,7 +22,7 @@ Poznanie sposobu organizowania codziennych zadań oraz najważniejszych potrzeb 
 
 - [Wypełnij anonimową ankietę TaskFlow](https://docs.google.com/forms/d/e/1FAIpQLSfRVz5wAcdJPXPwGaNZSCQhfZBJgTkX54LOutaYsSp0b8h1bg/viewform?usp=publish-editor)
 - [Otwórz arkusz odpowiedzi](https://docs.google.com/spreadsheets/d/15Pc_FkLV625rccqPvXvv8LfUYmgylYBE84trJCq2Cms/edit?resourcekey=&gid=1729728919#gid=1729728919)
-- [Dashboard](https://forms.gle/scQqUJHUUZk7tvio8).
+- [Dashboard](https://forms.gle/scQqUJHUUZk7tvio8)
 
 ## Wnioski
 - Użytkownicy oczekują szybkiego dodawania zadań.
