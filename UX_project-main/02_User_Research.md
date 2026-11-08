@@ -19,6 +19,7 @@ Poznanie sposobu organizowania codziennych zadań oraz najważniejszych potrzeb 
 5. Jak oznaczasz zadanie jako wykonane?
 
 https://forms.gle/HwnVSBQwbv2jjcea8
+https://docs.google.com/spreadsheets/d/15Pc_FkLV625rccqPvXvv8LfUYmgylYBE84trJCq2Cms/edit?usp=sharing
 
 ## Wnioski
 - Użytkownicy oczekują szybkiego dodawania zadań.
